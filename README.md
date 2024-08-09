@@ -44,13 +44,13 @@ How to Run the Project
 Prerequisites
 Python 3.x
 Jupyter Notebook
-Necessary Python libraries (listed in requirements.txt)
+Necessary Python libraries
 Steps to Run:
 Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/water-potability-analysis.git
+git clone https://github.com/Kenniepaulo
 Navigate to the project directory:
 
 bash
@@ -76,4 +76,4 @@ License
 This project is licensed under the MIT License. You are free to use and modify.
 
 Contact
-For any queries or suggestions, please you are free to contact [KEHINDE AKINBILE] at [akinbile.kenny@gmail.com].
+For any query or suggestions please contact  [KEHINDE AKINBILE] at [akinbile.kenny@gmail.com].
