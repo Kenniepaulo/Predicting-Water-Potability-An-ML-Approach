@@ -1,5 +1,6 @@
 Water Potability Analysis and Classification
 Project Overview
+
 This project analyzes and classifies water potability using various machine-learning algorithms. The objective is to predict whether water is safe for consumption based on specific chemical properties and other related features. The analysis involves data exploration, feature engineering, model building, and evaluation to achieve the best possible prediction accuracy.
 
 Key Components
